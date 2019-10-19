@@ -9,3 +9,5 @@ Yo, what do you say when to a merge conflict!
 Nada,
 
 It's a merge conflict.
+
+This is what Bob & Carol did on Bob’s computer when working on the first feature
