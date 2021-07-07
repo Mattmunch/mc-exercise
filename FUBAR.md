@@ -10,6 +10,7 @@ Nada,
 
 It's a merge conflict.
 
+AH, what a world, what a joy to be in this world, alive alive-o.
 This is what Bob & Carol did on Bob’s computer when working on the first feature
 
 Foo walks into a Bar and Bar is like, what is this Array'd?
